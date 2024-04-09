@@ -1,0 +1,10 @@
+program{
+bool sad;
+int ssd, as;
+as = 19 + 123;
+
+write(ssd);
+ssd = as;
+}
+@
+

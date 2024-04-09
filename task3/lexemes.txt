@@ -1,0 +1,6 @@
+and bool real do false int not or program
+read continue true while write
+{ } ; , : = ( ) == < > + */ <= < = != >=
+Custom
+custom2
+@
